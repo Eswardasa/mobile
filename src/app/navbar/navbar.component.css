@@ -1,0 +1,20 @@
+body{
+background-image: url("https://thumbs.dreamstime.com/b/cloudy-purple-color-background-wallpaper-use-design-layout-text-images-cloudy-purple-color-background-wallpaper-154981486.jpg");
+size: cover;
+}
+ul li{
+    float: left;
+    width: 175px;
+    height: 30px;
+    line-height: 30px;
+    background-color: lightgray;
+    border-radius: 25px;
+    text-align: center;
+}
+ul li a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+	}
+	
